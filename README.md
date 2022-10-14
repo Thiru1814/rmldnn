@@ -28,7 +28,7 @@ The entire run is configured in the JSON file `config.json`. This file controls 
 
 # Why rmldnn?
 
-**rmldnn** was built from the start with two main design principles in mind:
+**rmldnn** was built from the start/scratch with two main design principles in mind:
 
 - **Ease-of-use:** Simple, code-free, configuration-based command-line interface
 - **Uncompromising performance**: Blazing-fast speeds and HPC-grade scalability on GPU/CPU clusters
@@ -113,7 +113,7 @@ on Linux Ubuntu 18.04, and should work on all popular Linux distros. In addition
  
 - **AWS**
 
-  - Deploy the *rmldnn* AMI on the AWS cloud:
+  - Deploy the *rmldnn* AMI on the AWS cloud(its good to start with free credits):
 
     [<img src="./figures/deploy_to_AWS.png" width="178">](https://aws.amazon.com/marketplace/pp/prodview-kfict5f43ntbu)
 
